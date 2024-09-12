@@ -12332,3 +12332,7 @@ pre .code {
   flex-direction: column; 
   align-items: center; 
 } 
+
+.col-md-4 {
+padding-bottom: 10px;  
+}
